@@ -1,5 +1,3 @@
-<img width="1187" height="891" alt="homepage" src="https://github.com/user-attachments/assets/6e41163b-c57d-4efe-b039-30549e6d9ed0" />
-<img width="517" height="1280" alt="mobile" src="https://github.com/user-attachments/assets/5d268f17-4ba6-455c-a7a0-b2deb54fadae" />
 ![License](https://img.shields.io/github/license/developeR2611/JWT-KEY-generator?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/developeR2611/JWT-KEY-generator?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/developeR2611/JWT-KEY-generator?style=for-the-badge)
@@ -41,17 +39,9 @@ A modern, privacy-first JWT Secret Key Generator built with React, TypeScript, a
 
 
 
-```text
-assets/
-├── homepage.png
-└── mobile.png
-```
+<img width="1187" height="891" alt="homepage" src="https://github.com/user-attachments/assets/6e41163b-c57d-4efe-b039-30549e6d9ed0" />
+<img width="517" height="1280" alt="mobile" src="https://github.com/user-attachments/assets/5d268f17-4ba6-455c-a7a0-b2deb54fadae" />
 
-Then include:
-
-```md
-![Homepage](assets/homepage.png)
-```
 
 ---
 
